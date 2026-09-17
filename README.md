@@ -1,3 +1,5 @@
+https://churntelco.streamlit.app/
+
 # Analisis Customer Churn Telco
 
 Proyek ini menganalisis data customer churn dari penyedia layanan telekomunikasi untuk mengidentifikasi pola perilaku pelanggan yang berpotensi berhenti berlangganan (churn).

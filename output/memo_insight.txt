@@ -1,0 +1,20 @@
+
+Churn rate keseluruhan pelanggan adalah 26.5%.
+
+Temuan utama:
+1. Kontrak "Month-to-month" punya churn rate tertinggi (42.7%),
+   jauh di atas rata-rata keseluruhan.
+2. Pelanggan di kelompok tenure "0-6 bln" churn paling tinggi (52.9%)
+   -> periode kritis retensi ada di awal berlangganan.
+3. Metode pembayaran "Electronic check" berasosiasi dengan churn rate tertinggi
+   (45.3%).
+
+Rekomendasi:
+- Fokuskan program retensi pada pelanggan baru (<6 bulan) dengan kontrak
+  bulanan, karena kombinasi ini paling berisiko churn.
+- Pertimbangkan insentif migrasi ke kontrak tahunan pada 3 bulan pertama.
+- Evaluasi pengalaman pembayaran untuk metode "Electronic check" -
+  kemungkinan ada friksi yang mendorong pelanggan keluar.
+
+(Catatan: ini draft otomatis dari angka - perkuat dengan konteks bisnis
+dan validasi asumsi sebelum dipakai sebagai keputusan nyata.)
